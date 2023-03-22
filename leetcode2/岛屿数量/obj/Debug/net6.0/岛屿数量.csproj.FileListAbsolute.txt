@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\bin\Debug\net6.0\岛屿数量.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\bin\Debug\net6.0\岛屿数量.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\bin\Debug\net6.0\岛屿数量.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\bin\Debug\net6.0\岛屿数量.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\bin\Debug\net6.0\岛屿数量.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\obj\Debug\net6.0\岛屿数量.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\obj\Debug\net6.0\岛屿数量.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\obj\Debug\net6.0\岛屿数量.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\obj\Debug\net6.0\岛屿数量.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\obj\Debug\net6.0\岛屿数量.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\obj\Debug\net6.0\岛屿数量.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\obj\Debug\net6.0\refint\岛屿数量.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\obj\Debug\net6.0\岛屿数量.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\obj\Debug\net6.0\岛屿数量.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\岛屿数量\obj\Debug\net6.0\ref\岛屿数量.dll

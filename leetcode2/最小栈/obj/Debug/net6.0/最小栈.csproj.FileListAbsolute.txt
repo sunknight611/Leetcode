@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\bin\Debug\net6.0\最小栈.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\bin\Debug\net6.0\最小栈.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\bin\Debug\net6.0\最小栈.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\bin\Debug\net6.0\最小栈.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\bin\Debug\net6.0\最小栈.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\obj\Debug\net6.0\最小栈.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\obj\Debug\net6.0\最小栈.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\obj\Debug\net6.0\最小栈.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\obj\Debug\net6.0\最小栈.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\obj\Debug\net6.0\最小栈.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\obj\Debug\net6.0\最小栈.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\obj\Debug\net6.0\refint\最小栈.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\obj\Debug\net6.0\最小栈.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\obj\Debug\net6.0\最小栈.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\最小栈\obj\Debug\net6.0\ref\最小栈.dll
