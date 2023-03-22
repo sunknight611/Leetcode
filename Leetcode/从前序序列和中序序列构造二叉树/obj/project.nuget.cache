@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ure1MiXV+hWs6+nUc330bX/hhmh+dL7avU0C6FAgvW+GM7d3w9Hjqk8CY7OjGAs7hmwHVGCwvDfH0q6r2us3Kw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\Leetcode\\从前序序列和中序序列构造二叉树\\从前序序列和中序序列构造二叉树.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

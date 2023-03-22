@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DcuTd4aIeMBbP2T0gFx7JFrDU+iVSztf0yH/yzSuI+71TQiPm6/axHbWa0jL6tyl+WXaBgfths0H+IeQNfeGzQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\Leetcode\\在排序数组中查找元素的第一个和最后一个位置\\在排序数组中查找元素的第一个和最后一个位置.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

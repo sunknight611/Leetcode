@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "删除链表的倒数第 N个结点/1.0.0": {
+        "runtime": {
+          "删除链表的倒数第 N个结点.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "删除链表的倒数第 N个结点/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

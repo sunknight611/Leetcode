@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CaSCpXnn1sIkp59a/99UIO33w+Cfughyd6vc44D38EQJqKOtNbXP0sSqa09z7FgU06RuReG1M5J7pfSWuUZ4JQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\Leetcode\\组合总和\\组合总和.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

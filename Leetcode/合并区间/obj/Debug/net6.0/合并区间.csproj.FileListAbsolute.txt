@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\bin\Debug\net6.0\合并区间.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\bin\Debug\net6.0\合并区间.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\bin\Debug\net6.0\合并区间.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\bin\Debug\net6.0\合并区间.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\bin\Debug\net6.0\合并区间.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\obj\Debug\net6.0\合并区间.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\obj\Debug\net6.0\合并区间.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\obj\Debug\net6.0\合并区间.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\obj\Debug\net6.0\合并区间.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\obj\Debug\net6.0\合并区间.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\obj\Debug\net6.0\合并区间.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\obj\Debug\net6.0\refint\合并区间.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\obj\Debug\net6.0\合并区间.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\obj\Debug\net6.0\合并区间.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\合并区间\obj\Debug\net6.0\ref\合并区间.dll

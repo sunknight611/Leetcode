@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rk0EP3CsxMSQIbDL+lxuG1nnAFd3tH1E6/19Ej2cABs1gH5D+0J656N2FmwRsSGTt8m5tYKkzaS8FdQwpLCtbw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\Leetcode\\下一个排列\\下一个排列.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

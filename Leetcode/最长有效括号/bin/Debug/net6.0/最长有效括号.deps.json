@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "最长有效括号/1.0.0": {
+        "runtime": {
+          "最长有效括号.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "最长有效括号/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

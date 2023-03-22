@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\bin\Debug\net6.0\Leetcode.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\bin\Debug\net6.0\Leetcode.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\bin\Debug\net6.0\Leetcode.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\bin\Debug\net6.0\Leetcode.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\bin\Debug\net6.0\Leetcode.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\obj\Debug\net6.0\Leetcode.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\obj\Debug\net6.0\Leetcode.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\obj\Debug\net6.0\Leetcode.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\obj\Debug\net6.0\Leetcode.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\obj\Debug\net6.0\Leetcode.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\obj\Debug\net6.0\Leetcode.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\obj\Debug\net6.0\refint\Leetcode.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\obj\Debug\net6.0\Leetcode.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\obj\Debug\net6.0\Leetcode.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\Leetcode\obj\Debug\net6.0\ref\Leetcode.dll

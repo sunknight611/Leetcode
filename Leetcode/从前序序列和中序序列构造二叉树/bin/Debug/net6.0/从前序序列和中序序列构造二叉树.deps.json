@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "从前序序列和中序序列构造二叉树/1.0.0": {
+        "runtime": {
+          "从前序序列和中序序列构造二叉树.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "从前序序列和中序序列构造二叉树/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

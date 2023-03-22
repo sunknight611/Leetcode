@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\bin\Debug\net6.0\单词搜索.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\bin\Debug\net6.0\单词搜索.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\bin\Debug\net6.0\单词搜索.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\bin\Debug\net6.0\单词搜索.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\bin\Debug\net6.0\单词搜索.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\obj\Debug\net6.0\单词搜索.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\obj\Debug\net6.0\单词搜索.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\obj\Debug\net6.0\单词搜索.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\obj\Debug\net6.0\单词搜索.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\obj\Debug\net6.0\单词搜索.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\obj\Debug\net6.0\单词搜索.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\obj\Debug\net6.0\refint\单词搜索.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\obj\Debug\net6.0\单词搜索.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\obj\Debug\net6.0\单词搜索.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\单词搜索\obj\Debug\net6.0\ref\单词搜索.dll

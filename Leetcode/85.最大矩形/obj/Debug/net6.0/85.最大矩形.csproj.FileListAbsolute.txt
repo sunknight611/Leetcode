@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\bin\Debug\net6.0\85.最大矩形.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\bin\Debug\net6.0\85.最大矩形.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\bin\Debug\net6.0\85.最大矩形.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\bin\Debug\net6.0\85.最大矩形.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\bin\Debug\net6.0\85.最大矩形.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\obj\Debug\net6.0\85.最大矩形.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\obj\Debug\net6.0\85.最大矩形.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\obj\Debug\net6.0\85.最大矩形.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\obj\Debug\net6.0\85.最大矩形.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\obj\Debug\net6.0\85.最大矩形.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\obj\Debug\net6.0\85.最大矩形.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\obj\Debug\net6.0\refint\85.最大矩形.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\obj\Debug\net6.0\85.最大矩形.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\obj\Debug\net6.0\85.最大矩形.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\85.最大矩形\obj\Debug\net6.0\ref\85.最大矩形.dll

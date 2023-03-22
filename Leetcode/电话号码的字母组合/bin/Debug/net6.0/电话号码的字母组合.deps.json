@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "电话号码的字母组合/1.0.0": {
+        "runtime": {
+          "电话号码的字母组合.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "电话号码的字母组合/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

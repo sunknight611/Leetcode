@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "在排序数组中查找元素的第一个和最后一个位置/1.0.0": {
+        "runtime": {
+          "在排序数组中查找元素的第一个和最后一个位置.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "在排序数组中查找元素的第一个和最后一个位置/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "102.二叉树的层次遍历/1.0.0": {
+        "runtime": {
+          "102.二叉树的层次遍历.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "102.二叉树的层次遍历/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\bin\Debug\net6.0\有效的括号.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\bin\Debug\net6.0\有效的括号.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\bin\Debug\net6.0\有效的括号.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\bin\Debug\net6.0\有效的括号.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\bin\Debug\net6.0\有效的括号.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\obj\Debug\net6.0\有效的括号.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\obj\Debug\net6.0\有效的括号.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\obj\Debug\net6.0\有效的括号.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\obj\Debug\net6.0\有效的括号.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\obj\Debug\net6.0\有效的括号.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\obj\Debug\net6.0\有效的括号.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\obj\Debug\net6.0\refint\有效的括号.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\obj\Debug\net6.0\有效的括号.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\obj\Debug\net6.0\有效的括号.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\有效的括号\obj\Debug\net6.0\ref\有效的括号.dll

@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\bin\Debug\net6.0\N字形变换.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\bin\Debug\net6.0\N字形变换.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\bin\Debug\net6.0\N字形变换.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\bin\Debug\net6.0\N字形变换.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\bin\Debug\net6.0\N字形变换.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\obj\Debug\net6.0\N字形变换.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\obj\Debug\net6.0\N字形变换.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\obj\Debug\net6.0\N字形变换.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\obj\Debug\net6.0\N字形变换.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\obj\Debug\net6.0\N字形变换.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\obj\Debug\net6.0\N字形变换.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\obj\Debug\net6.0\refint\N字形变换.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\obj\Debug\net6.0\N字形变换.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\obj\Debug\net6.0\N字形变换.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\N字形变换\obj\Debug\net6.0\ref\N字形变换.dll

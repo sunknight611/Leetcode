@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\bin\Debug\net6.0\三数之和.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\bin\Debug\net6.0\三数之和.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\bin\Debug\net6.0\三数之和.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\bin\Debug\net6.0\三数之和.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\bin\Debug\net6.0\三数之和.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\obj\Debug\net6.0\三数之和.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\obj\Debug\net6.0\三数之和.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\obj\Debug\net6.0\三数之和.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\obj\Debug\net6.0\三数之和.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\obj\Debug\net6.0\三数之和.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\obj\Debug\net6.0\三数之和.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\obj\Debug\net6.0\refint\三数之和.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\obj\Debug\net6.0\三数之和.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\obj\Debug\net6.0\三数之和.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\三数之和\obj\Debug\net6.0\ref\三数之和.dll

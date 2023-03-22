@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\bin\Debug\net6.0\子集.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\bin\Debug\net6.0\子集.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\bin\Debug\net6.0\子集.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\bin\Debug\net6.0\子集.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\bin\Debug\net6.0\子集.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\obj\Debug\net6.0\子集.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\obj\Debug\net6.0\子集.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\obj\Debug\net6.0\子集.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\obj\Debug\net6.0\子集.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\obj\Debug\net6.0\子集.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\obj\Debug\net6.0\子集.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\obj\Debug\net6.0\refint\子集.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\obj\Debug\net6.0\子集.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\obj\Debug\net6.0\子集.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\子集\obj\Debug\net6.0\ref\子集.dll

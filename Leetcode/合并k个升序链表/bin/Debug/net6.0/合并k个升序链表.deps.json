@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "合并k个升序链表/1.0.0": {
+        "runtime": {
+          "合并k个升序链表.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "合并k个升序链表/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LRU缓存/1.0.0": {
+        "runtime": {
+          "LRU缓存.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LRU缓存/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

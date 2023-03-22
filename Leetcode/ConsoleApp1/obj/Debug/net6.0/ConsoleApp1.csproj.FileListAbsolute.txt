@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

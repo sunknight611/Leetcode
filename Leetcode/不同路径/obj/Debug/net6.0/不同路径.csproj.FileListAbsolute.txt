@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\bin\Debug\net6.0\不同路径.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\bin\Debug\net6.0\不同路径.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\bin\Debug\net6.0\不同路径.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\bin\Debug\net6.0\不同路径.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\bin\Debug\net6.0\不同路径.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\obj\Debug\net6.0\不同路径.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\obj\Debug\net6.0\不同路径.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\obj\Debug\net6.0\不同路径.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\obj\Debug\net6.0\不同路径.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\obj\Debug\net6.0\不同路径.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\obj\Debug\net6.0\不同路径.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\obj\Debug\net6.0\refint\不同路径.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\obj\Debug\net6.0\不同路径.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\obj\Debug\net6.0\不同路径.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\不同路径\obj\Debug\net6.0\ref\不同路径.dll

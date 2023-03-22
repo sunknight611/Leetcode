@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\bin\Debug\net6.0\sumoftwonumbers.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\bin\Debug\net6.0\sumoftwonumbers.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\bin\Debug\net6.0\sumoftwonumbers.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\bin\Debug\net6.0\sumoftwonumbers.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\bin\Debug\net6.0\sumoftwonumbers.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\obj\Debug\net6.0\sumoftwonumbers.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\obj\Debug\net6.0\sumoftwonumbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\obj\Debug\net6.0\sumoftwonumbers.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\obj\Debug\net6.0\sumoftwonumbers.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\obj\Debug\net6.0\sumoftwonumbers.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\obj\Debug\net6.0\sumoftwonumbers.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\obj\Debug\net6.0\refint\sumoftwonumbers.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\obj\Debug\net6.0\sumoftwonumbers.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\obj\Debug\net6.0\sumoftwonumbers.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\sumoftwonumbers\obj\Debug\net6.0\ref\sumoftwonumbers.dll

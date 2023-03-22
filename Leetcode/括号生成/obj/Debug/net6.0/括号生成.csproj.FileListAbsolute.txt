@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\bin\Debug\net6.0\括号生成.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\bin\Debug\net6.0\括号生成.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\bin\Debug\net6.0\括号生成.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\bin\Debug\net6.0\括号生成.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\bin\Debug\net6.0\括号生成.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\obj\Debug\net6.0\括号生成.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\obj\Debug\net6.0\括号生成.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\obj\Debug\net6.0\括号生成.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\obj\Debug\net6.0\括号生成.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\obj\Debug\net6.0\括号生成.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\obj\Debug\net6.0\括号生成.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\obj\Debug\net6.0\refint\括号生成.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\obj\Debug\net6.0\括号生成.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\obj\Debug\net6.0\括号生成.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Leetcode\括号生成\obj\Debug\net6.0\ref\括号生成.dll
