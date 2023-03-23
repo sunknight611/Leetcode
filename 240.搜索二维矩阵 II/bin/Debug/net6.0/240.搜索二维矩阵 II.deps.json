@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "240.搜索二维矩阵 II/1.0.0": {
+        "runtime": {
+          "240.搜索二维矩阵 II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "240.搜索二维矩阵 II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

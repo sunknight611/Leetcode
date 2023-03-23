@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KopJAcW4P/N/+o2SMX/lWkm6vp/pC/yZJjNiwX7bkPuUlyAMnHoV7iAmXH9Nf4Z2o1L6VO9Q/7dqs7+6L4jxCg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Leetcode all\\240.搜索二维矩阵 II\\240.搜索二维矩阵 II.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
