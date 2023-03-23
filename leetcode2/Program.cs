@@ -4,54 +4,68 @@
     {
         static void Main(string[] args)
         {
-            int[] nums = { 1, 2, 3 };
-            var solution = new Solution();
-            solution.NextPermutation(nums);
+            int[] nums = { 3, 1 };
+            var s = new Solution();
+            s.Search(nums, 1);
         }
+
+
     }
 
     public class Solution
     {
-        public void NextPermutation(int[] nums)
+        public int Search(int[] nums, int target)
         {
             int n = nums.Length;
-            int l = 0, r = 0;
-            if (n < 2) return;
-            //找到一个比右边数略小的数
-            for (l = n - 2; l >= 0; l--)
+            int left = 0, right = n - 1;
+            while (left <= right)
             {
-                //Console.WriteLine(l);
-                if (nums[l] < nums[l + 1])
-                    break;
+                int mid = (left + right) / 2;
+                //左边是有序的
+                if (nums[mid] > nums[left])
+                {
+                    int ans = BinaySearch(nums, left, mid, target);
+                    if (ans == -1)
+                    {
+                        left = mid;
+                    }
+                    else
+                    {
+                        return ans;
+                    }
+                }
+                else
+                {//右边是有序的
+                    int ans = BinaySearch(nums, mid, right, target);
+                    if (ans == -1)
+                    {
+                        right = mid;
+                    }
+                    else
+                    {
+                        return ans;
+                    }
+                }
             }
-
-            //在右边找到比这个数略大的数
-            for (r = n - 1; r >= 0; r--)
-            {
-                //Console.WriteLine(r);
-                if (nums[r] > nums[l])
-                    break;
-            }
-            swap(ref nums[l], ref nums[r]);
-            reverse(nums, l + 1, n - 1);
+            return -1;
         }
 
-
-        void swap(ref int x, ref int y)
+        public int BinaySearch(int[] nums, int left, int right, int val)
         {
-            int temp = x;
-            x = y;
-            y = temp;
-        }
-
-        void reverse(int[] nums, int l, int r)
-        {
-            while (l < r)
+            while (left <= right)
             {
-                swap(ref nums[l], ref nums[r]);
-                l++;
-                r--;
+                int mid = (left + right) / 2;
+                if (nums[mid] == val)
+                    return mid;
+                else if (nums[mid] > val)
+                    right = mid - 1;
+                else
+                    left = mid + 1;
             }
+            return -1;
         }
     }
+
+
+
 }

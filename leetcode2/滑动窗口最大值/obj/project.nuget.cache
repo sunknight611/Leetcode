@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dm12xIkfiPIkIxIcr5laG6GpzRwEy7vIyMn4OsUrZ0IExQB4zzSpffQn1IRynfmYVML8UpCu9wC84MjrIIIECQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Leetcode all\\leetcode2\\滑动窗口最大值\\滑动窗口最大值.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\81944\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

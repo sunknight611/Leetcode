@@ -13,3 +13,18 @@ F:\C#\Csharp-tutorial\ConsoleApp1\leetcode2\obj\Debug\net6.0\refint\leetcode2.dl
 F:\C#\Csharp-tutorial\ConsoleApp1\leetcode2\obj\Debug\net6.0\leetcode2.pdb
 F:\C#\Csharp-tutorial\ConsoleApp1\leetcode2\obj\Debug\net6.0\leetcode2.genruntimeconfig.cache
 F:\C#\Csharp-tutorial\ConsoleApp1\leetcode2\obj\Debug\net6.0\ref\leetcode2.dll
+F:\C#\Leetcode all\leetcode2\obj\Debug\net6.0\leetcode2.csproj.AssemblyReference.cache
+F:\C#\Leetcode all\leetcode2\obj\Debug\net6.0\leetcode2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Leetcode all\leetcode2\obj\Debug\net6.0\leetcode2.AssemblyInfoInputs.cache
+F:\C#\Leetcode all\leetcode2\obj\Debug\net6.0\leetcode2.AssemblyInfo.cs
+F:\C#\Leetcode all\leetcode2\obj\Debug\net6.0\leetcode2.csproj.CoreCompileInputs.cache
+F:\C#\Leetcode all\leetcode2\obj\Debug\net6.0\leetcode2.dll
+F:\C#\Leetcode all\leetcode2\obj\Debug\net6.0\refint\leetcode2.dll
+F:\C#\Leetcode all\leetcode2\obj\Debug\net6.0\leetcode2.pdb
+F:\C#\Leetcode all\leetcode2\bin\Debug\net6.0\leetcode2.exe
+F:\C#\Leetcode all\leetcode2\bin\Debug\net6.0\leetcode2.deps.json
+F:\C#\Leetcode all\leetcode2\bin\Debug\net6.0\leetcode2.runtimeconfig.json
+F:\C#\Leetcode all\leetcode2\bin\Debug\net6.0\leetcode2.dll
+F:\C#\Leetcode all\leetcode2\bin\Debug\net6.0\leetcode2.pdb
+F:\C#\Leetcode all\leetcode2\obj\Debug\net6.0\leetcode2.genruntimeconfig.cache
+F:\C#\Leetcode all\leetcode2\obj\Debug\net6.0\ref\leetcode2.dll
